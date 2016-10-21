@@ -13,6 +13,6 @@ public class MainActivity extends AppCompatActivity {
 
     public void forTesting()
     {
-        String k = "My laptop is working just fine";
+        String k1 = "My laptop is working just fine";
     }
 }
