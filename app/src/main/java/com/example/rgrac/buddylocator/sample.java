@@ -8,4 +8,5 @@ public class sample {
     {
         String k1 = "My laptop is working just fine";
     }
+    int i;
 }
